@@ -1,4 +1,7 @@
 ## Name: Patrizia Rodriguez
+## Education: Bachelor of Science in Information Technology
+## Certification: https://courses.cognitiveclass.ai/certificates/354f35244c4d4b17879167d490e78cb8
+## Skillsets: Java,JavaScript,SQL
 
 <!--
 **GlitchingPat/GlitchingPat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
