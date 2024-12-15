@@ -1,6 +1,6 @@
 ## Name: Patrizia Rodriguez
 ## Education: Bachelor of Science in Information Technology
-## Certification: https://courses.cognitiveclass.ai/certificates/354f35244c4d4b17879167d490e78cb8
+## Certification: https://courses.cognitiveclass.ai/certificates/354f35244c4d4b17879167d490e78cb8 , https://catalog-education.oracle.com/ords/certview/sharebadge?id=3F3FAE417C8E273A4E2DB9853EC71591468F91148CF23D2F1150C9EDFE14DE99#
 ## Skillsets: Java,JavaScript,SQL
 
 <!--
